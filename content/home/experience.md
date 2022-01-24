@@ -46,7 +46,7 @@ experience:
         * Developed GAN model to create realistic blending after foreground placement.
         * Used augmented data plus orginal data to train Mask R-CNN model and achieved improvement in average precision and recall.
 
-    - title: Graduate Research Assistant 
+   - title: Graduate Research Assistant 
     company: Shi Research Group
     company_url: ''
     company_logo: 
@@ -58,5 +58,5 @@ experience:
         * Adding additional branches to SOLO v2 architecture in order to predict the 3D flow field along each contour, as well as end points of each contour. 
 
 design:
-  columns: '3'
+  columns: '2'
 ---
