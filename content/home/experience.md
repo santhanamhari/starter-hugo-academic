@@ -22,19 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Research Assistant 
+    company: Shi Research Group
     company_url: ''
     company_logo: 
     location: California
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: |2- 
+        * Projecting 3D mesh models into 2D images, and using SOLO v2 to learn relevant information about image's edge contours for 3D reconstruction.
+        * Adding additional branches to SOLO v2 architecture in order to predict the 3D flow field along each contour. 
         
   - title: Advanced Robotics R&D Intern
     company: Amazon Robotics
