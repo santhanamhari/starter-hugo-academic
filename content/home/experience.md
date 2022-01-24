@@ -46,7 +46,7 @@ experience:
     description: |2-
         
         * Created augmented data by copying foreground objects, based on derived position, rotation, and scale distribution, into second setting with no background.
-        * Developed GAN mode to create realistic blending after foreground placement.
+        * Developed GAN model to create realistic blending after foreground placement.
         * Used augmented data plus orginal data to train Mask R-CNN model and achieved improvement in average precision and recall.
 
 design:
