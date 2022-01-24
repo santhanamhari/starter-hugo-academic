@@ -58,5 +58,5 @@ experience:
         * Adding additional branches to SOLO v2 architecture in order to predict the 3D flow field along each contour, as well as end points of each contour. 
 
 design:
-  columns: '2'
+  columns: '3'
 ---
