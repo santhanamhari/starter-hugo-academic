@@ -44,7 +44,7 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-08-31'
     description: |2-
-        Responsibilities include:
+        
         
         * Trained Mask R-CNN architecture on one setting's sensor data and tested on another setting's sensor data, in order to establish baseline result. 
 
