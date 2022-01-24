@@ -1,8 +1,7 @@
 ---
 title: Hari Santhanam
 role: Master's Student at the University of Pennsylvania
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Computer Vision, Deep Learning, and Machine Learning. 
 interests:
   - Computer Vision
   - Deep Learning
