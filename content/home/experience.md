@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2- 
         * Projecting 3D mesh models into 2D images, and using SOLO v2 to learn relevant information about image's edge contours for 3D reconstruction.
-        * Adding additional branches to SOLO v2 architecture in order to predict the 3D flow field along each contour. 
+        * Adding additional branches to SOLO v2 architecture in order to predict the 3D flow field along each contour, as well as end points of each contour. 
         
   - title: Advanced Robotics R&D Intern
     company: Amazon Robotics
@@ -46,6 +46,19 @@ experience:
         * Developed GAN model to create realistic blending after foreground placement.
         * Used augmented data plus orginal data to train Mask R-CNN model and achieved improvement in average precision and recall.
 
+ - title: Advanced Robotics R&D Intern
+    company: Amazon Robotics
+    company_url: ''
+    company_logo: 
+    location: Boston, MA
+    date_start: '2021-06-01'
+    date_end: '2021-08-31'
+    description: |2-
+        * Trained Mask R-CNN architecture on one setting's sensor data and tested on second sensor's data, in order to establish baseline result. 
+        * Created augmented data by copying foreground objects, based on derived position, rotation, and scale distribution, into second setting with no background.
+        * Developed GAN model to create realistic blending after foreground placement.
+        * Used augmented data plus orginal data to train Mask R-CNN model and achieved improvement in average precision and recall.
+        
 design:
   columns: '2'
 ---
