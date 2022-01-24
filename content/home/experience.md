@@ -46,8 +46,8 @@ experience:
         * Developed GAN model to create realistic blending after foreground placement.
         * Used augmented data plus orginal data to train Mask R-CNN model and achieved improvement in average precision and recall.
 
-  - title: Research Assistant
-    company: Undergraduate Senior Thesis
+  - title: Undergraduate Research Assistant
+    company: Princeton Senior Thesis
     company_url: ''
     company_logo: 
     location: Boston, MA
@@ -56,6 +56,18 @@ experience:
     description: |2-
         * Inverted a pre-trained Mask R-CNN architecture to reverse engineer input training video sequences from just output binary masks.
         * Optimized noise as input tensor and added novel weighted batch normalization loss and pixel variance loss to existing Mask R-CNN architecture.
+
+
+  - title: Research Intern
+    company: Princeton Project X
+    company_url: ''
+    company_logo: 
+    location: Boston, MA
+    date_start: '2019-08-31'
+    date_end: '2019-06-01'
+    description: |2-
+        * Combined ConvLSTM with PReMVOS, a semi-supervised segmentation network that tracks an object based on video's first frame.
+        * Adapted network to track object in video based on template image, rather than video's first frame, and achieved promising J&F mean scores.
 
 design:
   columns: '2'
