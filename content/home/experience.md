@@ -46,18 +46,16 @@ experience:
         * Developed GAN model to create realistic blending after foreground placement.
         * Used augmented data plus orginal data to train Mask R-CNN model and achieved improvement in average precision and recall.
 
-  - title: Advanced Robotics R&D Intern
-    company: Amazon Robotics
+  - title: Research Assistant
+    company: Undergraduate Senior Thesis
     company_url: ''
     company_logo: 
     location: Boston, MA
-    date_start: '2021-06-01'
-    date_end: '2021-08-31'
+    date_start: '2019-09-01'
+    date_end: '2020-05-31'
     description: |2-
-        * Trained Mask R-CNN architecture on one setting's sensor data and tested on second sensor's data, in order to establish baseline result. 
-        * Created augmented data by copying foreground objects, based on derived position, rotation, and scale distribution, into second setting with no background.
-        * Developed GAN model to create realistic blending after foreground placement.
-        * Used augmented data plus orginal data to train Mask R-CNN model and achieved improvement in average precision and recall.
+        * Inverted a pre-trained Mask R-CNN architecture to reverse engineer input training video sequences from just output binary masks.
+        * Optimized noise as input tensor and added novel weighted batch normalization loss and pixel variance loss to existing Mask R-CNN architecture.
 
 design:
   columns: '2'
