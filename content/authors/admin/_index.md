@@ -32,5 +32,3 @@ highlight_name: true
 
 I am a second year Master's student in the Robotics program at the University of Pennsylvania. I completed my Bachelor of Engineering with Honors at Princeton University in Electrical Engineering. My interests mainly lie in Computer Vision, Deep Learning, Machine Learning, and Signal Processing. I have worked on projects in the domains of 3D edge detection, object segmentation and recognition, disease diagnosis, and deep learning model inversion. 
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
