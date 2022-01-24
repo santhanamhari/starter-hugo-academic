@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
+    company_logo: 
     location: California
     date_start: '2021-01-01'
     date_end: ''
@@ -39,15 +39,13 @@ experience:
   - title: Advanced Robotics R&D Intern
     company: Amazon Robotics
     company_url: ''
-    company_logo: org-x
+    company_logo: 
     location: Boston, MA
     date_start: '2021-06-01'
     date_end: '2021-08-31'
     description: |2-
         
-        
-        * Trained Mask R-CNN architecture on one setting's sensor data and tested on another setting's sensor data, in order to establish baseline result. 
-        * Created augmented data by copying foreground objects, based on derived position, rotation, and scale distribution.
+        * Created augmented data by copying foreground objects, based on derived position, rotation, and scale distribution, into second setting with no background.
         * Developed GAN mode to create realistic blending after foreground placement.
         * Used augmented data plus orginal data to train Mask R-CNN model and achieved improvement in average precision and recall.
 
