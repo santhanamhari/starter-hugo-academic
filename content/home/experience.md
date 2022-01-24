@@ -63,8 +63,8 @@ experience:
     company_url: ''
     company_logo: 
     location: Boston, MA
-    date_start: '2019-08-31'
-    date_end: '2019-06-01'
+    date_start: '2019-06-01'
+    date_end: '2019-08-31'
     description: |2-
         * Combined ConvLSTM with PReMVOS, a semi-supervised segmentation network that tracks an object based on video's first frame.
         * Adapted network to track object in video based on template image, rather than video's first frame, and achieved promising J&F mean scores.
