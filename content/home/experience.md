@@ -44,7 +44,7 @@ experience:
     date_start: '2021-06-01'
     date_end: '2021-08-31'
     description: |2-
-        
+        * Trained Mask R-CNN architecture on one setting's sensor data and tested on second sensor's data, in order to establish baseline result. 
         * Created augmented data by copying foreground objects, based on derived position, rotation, and scale distribution, into second setting with no background.
         * Developed GAN model to create realistic blending after foreground placement.
         * Used augmented data plus orginal data to train Mask R-CNN model and achieved improvement in average precision and recall.
