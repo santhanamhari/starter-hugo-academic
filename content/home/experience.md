@@ -36,14 +36,16 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Advanced Robotics R&D Intern
+    company: Amazon Robotics
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Boston, MA
+    date_start: '2021-06-01'
+    date_end: '2021-08-31'
+    description: |2-
+    
+    - Trained Mask R-CNN architecture on one setting's sensor data and tested on another setting's sensor data, in order to establish baseline result. 
 
 design:
   columns: '2'
