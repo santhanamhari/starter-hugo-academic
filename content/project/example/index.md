@@ -1,5 +1,5 @@
 ---
-title: Binary Masks to Video Frames via DeepInversion
+title: YOLO
 summary: 
 tags:
 date: "2016-04-27T00:00:00Z"
