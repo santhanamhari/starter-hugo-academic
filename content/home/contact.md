@@ -13,7 +13,7 @@ weight: 130
 title: Contact
 subtitle: 
 
-content: here
+content: 
 
 design:
   columns: '2'
