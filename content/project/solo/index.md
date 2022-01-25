@@ -25,6 +25,6 @@ url_video: ""
 slides: example
 ---
 
-Implemented SOLO with a category and mask branch for segmentation. Assign each instance to a grid cell based on instance's location and size. 
+Implemented SOLO with a category and mask branch for segmentation. Assigned each instance to a grid cell based on instance's location and size. 
 
 
