@@ -8,6 +8,8 @@ date: "2016-04-27T00:00:00Z"
 external_link: "https://github.com/santhanamhari/Video-DeepInversion"
 
 image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
   
 links:
 - icon: ""
