@@ -2,8 +2,6 @@
 # An instance of the Contact widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 
-widget: contact
-
 # This file represents a page section.
 headless: true
 
@@ -13,7 +11,7 @@ weight: 130
 title: Contact
 subtitle: 
 
-content:
+content: here
 
 design:
   columns: '2'
