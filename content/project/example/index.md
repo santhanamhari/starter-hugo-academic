@@ -5,11 +5,9 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/santhanamhari/Video-DeepInversion"
+external_link: "https://github.com/santhanamhari/YOLO"
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
   
 links:
 - icon: ""
@@ -27,5 +25,6 @@ url_video: ""
 slides: example
 ---
 
-Inverted pre-trained Mask R-CNN architecture, in order to produce synthetic frames of the training videos in the DAVIS dataset. Optimized a classification loss, defined between ground truth and predicted coarse masks, as well as auxiliary losses that minimize noise and batch normalization statistic differences.
+Implemented YOLO, a state of the art real-time object detection system. The goal is to regress the bounding boxes and class probabilities with a single network, with postprocessing using non maximum suppression.
+
 
