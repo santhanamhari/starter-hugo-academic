@@ -13,7 +13,8 @@ title: Contact
 subtitle:
 
 content:
-  qasdfsd
+  Game time here is the time to go to the 
+  
 design:
   columns: '2'
 ---
