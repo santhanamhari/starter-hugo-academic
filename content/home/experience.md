@@ -69,6 +69,27 @@ experience:
         * Combined ConvLSTM with PReMVOS, a semi-supervised segmentation network that tracks an object based on video's first frame.
         * Adapted network to track object in video based on template image, rather than video's first frame, and achieved promising J&F mean scores.
 
+  - title: Engineering Intern
+    company: Lightening Energy
+    company_url: ''
+    company_logo: 
+    location: Dover, NJ
+    date_start: '2018-06-01'
+    date_end: '2018-08-31'
+    description: |2-
+        * Developed and designed a prototype for a battery pack configuration that electrically powers an industrial device. 
+        * Programmed a battery management system (BMS) and power supply to work in cohesion with the pack for factory settings. 
+  
+  - title: Summer Intern
+    company: Princeton Plasma Physics Laboratory (PPPL)
+    company_url: ''
+    company_logo: 
+    location: Princeton, NJ
+    date_start: '2017-06-01'
+    date_end: '2017-08-31'
+    description: |2-
+        * Detected oscillations using Langmuir probes by altering the magnetic field strength and probe voltage within cylindrical plasma tube.
+        * Discovered ion acoustic waves caused detected oscillations using MatLab and co-wrote a paper featured on the official PPPL website. 
 design:
   columns: '2'
 ---
