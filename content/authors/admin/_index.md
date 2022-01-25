@@ -8,9 +8,6 @@ interests:
   - Machine Learning
   - Signal Processing
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: harisan@seas.upenn.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/santhanamhari
