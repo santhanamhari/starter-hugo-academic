@@ -28,5 +28,5 @@ url_video: ""
 slides: example
 ---
 
-Inverted a pre-trained Mask R-CNN architecture, in order to produce synthetic frames of the training videos in the DAVIS dataset. Optimized a classification loss, defined between ground truth and predicted coarse masks, as well as auxiliary losses that minimize noise and batch normalization statistic differences.
+Inverted pre-trained Mask R-CNN architecture, in order to produce synthetic frames of the training videos in the DAVIS dataset. Optimized a classification loss, defined between ground truth and predicted coarse masks, as well as auxiliary losses that minimize noise and batch normalization statistic differences.
 
