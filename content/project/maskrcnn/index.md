@@ -25,5 +25,4 @@ url_video: ""
 slides: example
 ---
 
-Expanded Faster R-CNN structure to accomodate a Feature Pyramid Network and extend it by adding a mask branch to the network head architecture for segmentation prediction. 
-
+Expanded Faster R-CNN structure to accomodate a Feature Pyramid Network and extended it by adding a mask branch to the network head architecture.
