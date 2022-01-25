@@ -7,10 +7,6 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/santhanamhari/Video-DeepInversion"
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
 
 links:
 - icon: ""
